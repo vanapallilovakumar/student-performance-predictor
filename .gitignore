@@ -34,3 +34,12 @@ dist-ssr/
 # Temporary / Scratch
 tmp/
 temp/
+
+# Credentials, keys, and secrets
+*.pem
+*.key
+*.cert
+*.id_rsa
+*.pfx
+secrets/
+credentials.json
